@@ -1,0 +1,6 @@
+requests
+pandas
+python-dotenv
+jsonschema
+jinja2
+pytest
